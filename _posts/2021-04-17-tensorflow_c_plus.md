@@ -1,3 +1,9 @@
+---
+title: "Tensorflow C++ DLL for visual studio 2019"
+date: 2021-04-17 22:00:00 -0400
+categories: tensorflow
+---
+
 # Tensorflow C++ DLL 사용법(Visual Studio 2019)
 
 ## 1. DLL Download
